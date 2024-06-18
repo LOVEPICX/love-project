@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    background-color: rgb(2, 2, 2);
+    color: chartreuse;
+
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin:1.5rem;
+}
+
+.box-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: #DA0C81;
+
+}
+
+.yellow{
+    background-color: #E9B824;
+}
+
+.green{
+    background-color: #A8DF8E;
+}
+
+.purple{
+    background-color: #B15EFF;
+}
+.flesh{
+    background-color: aliceblue;
+}
+.userflesh{
+    background-color: darkgreen;
+}
+
+.high{
+  position:absolute ;
+  top: 86%;
+  right: 45%;
+  border: 10px solid transparent ;
+  border-radius: 50%;
+  box-shadow: 2px 5px 6px 8px;
+  background-color: rgb(2, 2, 2);
+  color: rgb(255, 0, 0);
+}
